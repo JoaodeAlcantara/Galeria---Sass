@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  },
+  "scripts": {
+  "sass": "node-sass -w scss/ -o dist/css --recursive"
+}
+}
